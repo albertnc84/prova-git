@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+  <Company id="Guissona">
+    <Employee id="1">
+      <age>28</age>
+      <name>Xavier</name>
+      <lastname>Timoneda</lastname>
+      <gender>Male</gender>
+      <role>Java Script Developer</role>
+    </Employee>
+    <Employee id="2">
+      <age>28</age>
+      <name>Josep</name>
+      <lastname>Sala</lastname>
+      <gender>Male</gender>
+      <role>DBA</role>
+    </Employee>
+    <Employee id="3">
+      <age>21</age>
+      <name>Adrià</name>
+      <lastname>Orellana</lastname>
+      <gender>Male</gender>
+      <role>Java Developer</role>
+    </Employee>
+  </Company>
+  <Company id="Mainada">
+    <Employee id="1">
+      <age>21</age>
+      <name>David</name>
+      <lastname>Llordés</lastname>
+      <gender>Male</gender>
+      <role>PHP developer</role>
+    </Employee>
+    <Employee id="4">
+      <age>2908lkj</age>
+      <name>slkdfj</name>
+      <lastname>ñkasdjf</lastname>
+      <gender>ñlasdkfj</gender>
+      <role>alsdkfj</role>
+    </Employee>
+  </Company>
+</Employees>

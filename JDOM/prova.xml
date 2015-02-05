@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tvshows>
+  <show>
+    <name show_id="show_001">Dragon Ball</name>
+    <network country="SPA">TV3</network>
+  </show>
+  <show>
+    <name show_id="show_001">Dragon Ball</name>
+    <network country="EEUU">CNN</network>
+  </show>
+  <show>
+    <name show_id="show_002">Dragon Ball</name>
+    <network country="EEUU">Antena3</network>
+  </show>
+</tvshows>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Institud>
+  <Curs Nom="DAM1">
+    <Alumne DNI="78092024D">
+      <Nom>Albert</Nom>
+      <Any>1984</Any>
+      <Email>albertnc84@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="78092024D">
+      <Nom>Joel</Nom>
+      <Any>1994</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="ASIX">
+    <Alumne DNI="78092024D">
+      <Nom>Paquito</Nom>
+      <Any>1974</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="11325029R">
+      <Nom>Esteve</Nom>
+      <Any>1995</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="11325029R">
+      <Nom>Esteve</Nom>
+      <Any>1995</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="11325029R">
+      <Nom>Gerard</Nom>
+      <Any>1995</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="11325029R">
+      <Nom>pepe</Nom>
+      <Any>1995</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="11325029R">
+      <Nom>pepito</Nom>
+      <Any>1995</Any>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="SMX">
+    <Alumne DNI="12092029t">
+      <Nom>Anton</Nom>
+      <Any>1991</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="65325029v">
+      <Nom>Pepa</Nom>
+      <Any>1979</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="SMX">
+    <Alumne DNI="12092029t">
+      <Nom>Anton</Nom>
+      <Any>1991</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="65325029v">
+      <Nom>Pepa</Nom>
+      <Any>1979</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="SMX">
+    <Alumne DNI="12092029t">
+      <Nom>Anton</Nom>
+      <Any>1991</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="65325029v">
+      <Nom>Pepa</Nom>
+      <Any>1979</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="SMX">
+    <Alumne DNI="12092029t">
+      <Nom>Anton</Nom>
+      <Any>1991</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="65325029v">
+      <Nom>Pepa</Nom>
+      <Any>1979</Any>
+      <Email>elseucorreu@gmail.com</Email>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+  <Curs Nom="SMX">
+    <Alumne DNI="12092029t">
+      <Nom>Anton</Nom>
+      <Any>1991</Any>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+    <Alumne DNI="65325029v">
+      <Nom>Pepa</Nom>
+      <Any>1979</Any>
+      <Email>elseucorreu@gmail.com</Email>
+    </Alumne>
+  </Curs>
+</Institud>
